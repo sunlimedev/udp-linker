@@ -1,0 +1,1 @@
+Allows a client device, `Raspberry Pi`, to find a local webserver and connect to it via `chromium`.
